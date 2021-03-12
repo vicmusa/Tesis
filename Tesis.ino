@@ -2,7 +2,6 @@
 #include "MAX30105.h"
 #include "heltec.h"
 #include "spo2_algorithm.h"
-#include "heartRate.h"
 
 MAX30105 particleSensor;
 TaskHandle_t Task1;
