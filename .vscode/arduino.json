@@ -1,0 +1,4 @@
+{
+    "board": "Heltec-esp32:esp32:wifi_lora_32_V2",
+    "configuration": "PSRAM=disabled,CPUFreq=240,UploadSpeed=115200,DebugLevel=none,LORAWAN_REGION=3,LoRaWanDebugLevel=0"
+}

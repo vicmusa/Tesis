@@ -3,6 +3,12 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\usuario\\Documents\\Arduino\\libraries\\ProtoCentral_Pulse_Express_SpO2_Heartrate_and_BPT_sensor\\src",
+                "C:\\Users\\usuario\\Documents\\Arduino\\libraries\\SparkFun_MAX3010x_Pulse_and_Proximity_Sensor_Library\\src",
+                "C:\\Users\\usuario\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\tools\\**",
+                "C:\\Users\\usuario\\Documents\\Arduino\\libraries\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Users\\usuario\\AppData\\Local\\Arduino15\\packages\\Heltec-esp32\\hardware\\esp32\\0.0.5\\**",
                 "${workspaceFolder}/**"
             ],
             "defines": [
@@ -12,7 +18,8 @@
             ],
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "windows-msvc-x64",
+            "forcedInclude": []
         }
     ],
     "version": 4
